@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Manqing Zhang (张满青)"
-description              : "Northwestern Polytechnical University. Focusing on formal verification, theorm proving. "
+description              : "Phd in Northwestern Polytechnical University. Focusing on formal verification, theorm proving. "
 repository               : "manqing-zhang/manqing-zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Manqing Zhang (张满青)"
-  avatar           : "images/zmq.jpg"
-  bio              : "Phd student"
+  avatar           : "images/zmq-1.png"
+  bio              : "CiES Lab"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
