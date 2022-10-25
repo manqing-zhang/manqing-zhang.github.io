@@ -21,11 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Manqing Zhang
-                      <br>
-                      张满青"
+  name             : "Manqing Zhang"
   avatar           : "images/zmq-1.png"
-  bio              : "CiES Lab"
+  bio              : "张满青"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
