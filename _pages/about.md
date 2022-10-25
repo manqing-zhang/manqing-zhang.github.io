@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Ph.D. student majoring in Formal Verification at Northwestern Polytechnical University under the supervison of [Prof. Zhiming Liu](https://teacher.nwpu.edu.cn/zliu.html). I am a detail oriented PhD student interested in Theorem Proving, ​Concurrent Program Verification, Operating System Formal Development Method and Verification. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in mathematics and dynamic modeling. ​
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Previously during my master’s study at Case Western Reserve University (CWRU), I worked on the hexapod design and control project in the CRAB lab supervised by [Prof. Kathryn Daltorio](https://engineering.case.edu/research/labs/Daltorio/), and the joint hexapods locomotion project with National University of Singapore(NUS) supervised by Prof. [Guillaume Sartoretti](https://www.marmotlab.org). 
+
+I received my Bachelor’s degree from Southern University of Science and Technology (SUSTech), China in 2019 with my major in Mechanical Engineering. During this period, I worked on quadruped robot design and control in CLEAR Lab with [Prof. Wei Zhang](https://www.wzhanglab.site).
+
+Please find my CV here for more about my research projects and background. And please feel free to contact me for any questions or opportunities. 
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
