@@ -44,7 +44,7 @@ Please find my CV here for more about my research projects and background. And p
         <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-B)<a href="publications/issre21.pdf">[PDF]</a></span>
     </li>
     <li><span style="color:green;font-weight: 600;">[ESEC/FSE’19]</span> <a target="_blank" href="https://yuleisui.github.io">Yulei Sui</a>, Yifei Zhang, Wei Zheng, <span style="font-weight: 600;">Manqing Zhang</span>, Jingling Xue. Event Trace Reduction for Effective Bug Replay of Android Apps via Differential GUI State Analysis. Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. 
-        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)<a href="publications/fse19">[PDF]</a></span><br />
+        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)<a href="publications/fse19.pdf">[PDF]</a></span><br />
 	<span style="color:firebrick;font-weight: 600;">[Artifact]</span> <a href="https://github.com/zmqgeek/Echo" style="font-weight: 600;">Echo</a>: it replay and reduce Android GUI test cases.
     </li>
     </ol>
