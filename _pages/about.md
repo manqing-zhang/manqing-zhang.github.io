@@ -33,7 +33,7 @@ Please find my CV here for more about my research projects and background. And p
 - *2022.03*: &nbsp;🎉🎉 I received my master degree at Northwestern Polytechnical University. I am very grateful to my supervisors Prof. Zheng, as well as my dear friends and roommates.
 
 # 📝 Publications 
-## ( \* refers to the corresponding author )
+#### ( \* refers to the corresponding author )
 
 <div id="Conference" style="float:left;margin-top: 5px;">
     <h1 class="content_title">Conference</h1>
@@ -61,12 +61,21 @@ Please find my CV here for more about my research projects and background. And p
 
 # 🎖 Honors and Awards
 
-- ![Award1](images/Award1.png) *2022.10* 西北工业大学优秀硕士论文奖. 
-- ![Award1](images/Award1.png) *2019.10* 安徽工程大学品学兼优毕业生.
+- ![Award1](images/Award1.png) *2022.08* 西北工业大学优秀硕士学位论文奖. \[[Reference](https://gs.nwpu.edu.cn/info/2141/15244.htm)\]
+- ![Award1](images/Award1.png) *2019.04* 安徽省普通高等学校品学兼优毕业生.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Master of Engineering, [School of Mechanical Engineering](https://me.sjtu.edu.cn//) at Shanghai Jiao Tong University.
-- *2015.09 - 2019.06*, Bachelor of Engineering (Distinguished Engineer Class), [School of Mechanical Engineering](https://meccol.dhu.edu.cn//) at Donghua University.
+- *2022.09 - now*, School of Software, Northwestern Polytechnical University
+  
+  Ph.D., Software Engineering, Supervisors: Prof. Zhiming Liu
+  
+- *2019.09 - 2022.04*, School of Software, Northwestern Polytechnical University
+
+  Master of Engineering, Software Engineering, Supervisors: Prof. Wei Zheng
+  
+- *2015.09 - 2019.06*, School of Computer and Information, Anhui Polytechnic University
+
+  Bachelor of Engineering, Computer Science \& Technology, Supervisors: Prof. Yu Xiu.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
