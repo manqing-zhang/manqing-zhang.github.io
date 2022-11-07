@@ -41,12 +41,6 @@ Please find my CV here for more about my research projects and background. And p
                             Runtime Permission Issues in Android Apps: Taxonomy, Practices, and Ways Forward [J], IEEE Transactions on Software Engineering, To appear.
 						    <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span></br> 
     </li>
-    <li><span style="color:green;font-weight: 600;">[ICSE’22]</span> Zhenming Li, <span style="font-weight: 600;">Ying Wang*</span>, <a target="_blank" href="https://www.microsoft.com/en-us/research/people/zelin/">Zeqi Lin*</a>, <a target="_blank" href="https://www.cse.ust.hk/~scc/">Shing-Chi Cheung</a>,
-							<a target="_blank" href="https://www.microsoft.com/en-us/research/people/jlou/">Jianguang Lou</a>.
-                            Nufix: Escape From NuGet Dependency Maze [C], ICSE 2022, To appear. (通讯作者, 学生第一)
-							(Acceptance ratio 26.0%=197/751) <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span></br>
-							<span style="color:firebrick;font-weight: 600;">[Artifact]</span> <a href="http://www.nufix-dependency-maze.com/" style="font-weight: 600;">NuFix</a>: it helps .NET developers combat dependency hell issues.</br>
-							</li>
 						<li><span style="color:green;font-weight: 600;">[ICSE’21]</span> <span style="font-weight: 600;">Ying Wang</span>, Liang Qiao, <a target="_blank" href="https://cs.nju.edu.cn/changxu/">Chang Xu*</a>, <a target="_blank" href="https://yepangliu.github.io/">Yepang Liu</a>, <a target="_blank" href="https://www.cse.ust.hk/~scc/">Shing-Chi Cheung</a>, <a target="_blank" href="http://people.cs.vt.edu/nm8247/">Na Meng</a>, <a target="_blank" href="http://faculty.neu.edu.cn/yuhai/">Hai Yu</a> and <a target="_blank" href="http://faculty.neu.edu.cn/zzl/">Zhiliang Zhu</a>.
                             Hero: On the Chaos When PATH Meets Modules [C], ICSE 2021: 99-111.
 							(Acceptance ratio 22.4%=138/615) <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span></br> 
