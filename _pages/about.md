@@ -33,39 +33,31 @@ Please find my CV here for more about my research projects and background. And p
 - *2022.03*: &nbsp;🎉🎉 I received my master degree at Northwestern Polytechnical University. I am very grateful to my supervisors Prof. Zheng, as well as my dear friends and roommates.
 
 # 📝 Publications 
+## ( \* refers to the corresponding author )
 
 <div id="Conference" style="float:left;margin-top: 5px;">
     <h1 class="content_title">Conference</h1>
     <ol class="main_ul" style="margin-top: 5px;">
-    <li><span style="color:green;font-weight: 600;">[TSE’22]</span> <span style="font-weight: 600;">Ying Wang</span>, Yibo Wang, Sinan Wang, <a target="_blank" href="https://yepangliu.github.io/">Yepang Liu*</a>, <a target="_blank" href="https://cs.nju.edu.cn/changxu/">Chang Xu</a>, <a target="_blank" href="https://www.cse.ust.hk/~scc/">Shing-Chi Cheung</a>, <a target="_blank" href="http://faculty.neu.edu.cn/yuhai/">Hai Yu</a>,  and <a target="_blank" href="http://faculty.neu.edu.cn/zzl/">Zhiliang Zhu</a>.
-                            Runtime Permission Issues in Android Apps: Taxonomy, Practices, and Ways Forward [J], IEEE Transactions on Software Engineering, To appear.
-						    <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
+    <li><span style="color:green;font-weight: 600;">[ISSRE’21]</span> Wei Zheng, <span style="font-weight: 600;">Manqing Zhang*</span>, Hui Tang, Yuanfang Cai, <a target="_blank" href="https://smartse.github.io/">Xiang Chen</a>, Xiaoxue Wu and Abubakar Omari Abdallah Semasaba.Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning. 2021 IEEE 32nd International Symposium on Software Reliability Engineering. (Acceptance ratio 22.4%=138/615)  
+        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-B)</span>
     </li>
-						<li><span style="color:green;font-weight: 600;">[ICSE’21]</span> <span style="font-weight: 600;">Ying Wang</span>, Liang Qiao, <a target="_blank" href="https://cs.nju.edu.cn/changxu/">Chang Xu*</a>, <a target="_blank" href="https://yepangliu.github.io/">Yepang Liu</a>, <a target="_blank" href="https://www.cse.ust.hk/~scc/">Shing-Chi Cheung</a>, <a target="_blank" href="http://people.cs.vt.edu/nm8247/">Na Meng</a>, <a target="_blank" href="http://faculty.neu.edu.cn/yuhai/">Hai Yu</a> and <a target="_blank" href="http://faculty.neu.edu.cn/zzl/">Zhiliang Zhu</a>.
-                            Hero: On the Chaos When PATH Meets Modules [C], ICSE 2021: 99-111.
-							(Acceptance ratio 22.4%=138/615) <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span><br />
-							<img src="images/Award.png"/> <span style="color:rgb(209, 36, 13);font-weight: 600;">ACM SIGSOFT Distinguished Paper Award.</span><br />
-							<span style="color:firebrick;font-weight: 600;">[Artifact]</span> <a href="http://www.hero-go.com/" style="font-weight: 600;">Hero</a>: it diagnoses dependency management issues for Golang ecosystem.
-						</li>
-					</ol>
-				</div>
+    <li><span style="color:green;font-weight: 600;">[ESEC/FSE’19]</span> <a target="_blank" href="https://yuleisui.github.io">Yulei Sui</a>, Yifei Zhang, Wei Zheng, <span style="font-weight: 600;">Manqing Zhang</span>, Jingling Xue.Event Trace Reduction for Effective Bug Replay of Android Apps via Differential GUI State Analysis. Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. 
+        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span><br />
+	<! -- <img src="images/Award.png"/> <span style="color:rgb(209, 36, 13);font-weight: 600;">ACM SIGSOFT Distinguished Paper Award.</span><br /> -->
+	<span style="color:firebrick;font-weight: 600;">[Artifact]</span> <a href="https://github.com/zmqgeek/Echo" style="font-weight: 600;">Echo</a>: it replay and reduce Android GUI test cases.
+    </li>
+    </ol>
+</div>
 				
 				
 <div id="Journal" style="float:left;margin-top: 5px;">
     <h1 class="content_title">Journal</h1>
     <ol class="main_ul" style="margin-top: 5px;">
-
-<li>孟繁祎, <span style="font-weight: 600;">王莹</span>, <a target="_blank" href="http://faculty.neu.edu.cn/yuhai/">于海*</a>, <a target="_blank" href="http://faculty.neu.edu.cn/zzl/">朱志良</a>. 复杂软件系统的重构技术: 现状、问题与展望. 计算机科学. 2020, 47(12): 1-10. <span style="color:rgb(138, 22, 6);font-weight: 600;">封面论文, (CCF-B)</span>
-						</li>
-</ol>
-				</div>	    
-[ISSRE'21] Wei Zheng, Manqing Zhang, Hui Tang, Yuanfang Cai, Xiang Chen, Xiaoxue Wu, Abubakar Omari Abdallah Semasaba. Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning. 2021 IEEE 32nd International Symposium on Software Reliability Engineering. (CCF-B)
-
-[ESEC/FSE'19] Yulei Sui, Yifei Zhang, Wei Zheng, Manqing Zhang, Jingling Xue. Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. (CCF-A)
-
-- *Journal articles:
-
-[计算机研究与发展'22] Zheng Wei, Tang Hui, Chen Xiang, Zhang Manqing, Xia Xin. State-of-the-Art Survey of Compatibility Test for Android Mobile Application. Journal of Computer Research and Development, 2022, 59(6): 1370-1387. (CCF-A)
+    <li><span style="color:green;font-weight: 600;">[计算机研究与发展'22]</span> 郑炜, 唐辉, <a target="_blank" href="https://smartse.github.io/">陈翔</a>, <span style="font-weight: 600;">张满青</span>, <a target="_blank" href="https://xin-xia.github.io/">夏鑫</a>. 安卓移动应用兼容性测试综述. 计算机研究与发展, 2022, 59(6): 1370-1387. 
+        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
+    </li>
+    </ol>
+</div>	   
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
