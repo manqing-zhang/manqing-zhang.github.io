@@ -39,16 +39,18 @@ Please find my CV here for more about my research projects and background. And p
     <ol class="main_ul" style="margin-top: 5px;">
     <li><span style="color:green;font-weight: 600;">[TSE’22]</span> <span style="font-weight: 600;">Ying Wang</span>, Yibo Wang, Sinan Wang, <a target="_blank" href="https://yepangliu.github.io/">Yepang Liu*</a>, <a target="_blank" href="https://cs.nju.edu.cn/changxu/">Chang Xu</a>, <a target="_blank" href="https://www.cse.ust.hk/~scc/">Shing-Chi Cheung</a>, <a target="_blank" href="http://faculty.neu.edu.cn/yuhai/">Hai Yu</a>,  and <a target="_blank" href="http://faculty.neu.edu.cn/zzl/">Zhiliang Zhu</a>.
                             Runtime Permission Issues in Android Apps: Taxonomy, Practices, and Ways Forward [J], IEEE Transactions on Software Engineering, To appear.
-						    <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span></br> 
+						    <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
     </li>
 						<li><span style="color:green;font-weight: 600;">[ICSE’21]</span> <span style="font-weight: 600;">Ying Wang</span>, Liang Qiao, <a target="_blank" href="https://cs.nju.edu.cn/changxu/">Chang Xu*</a>, <a target="_blank" href="https://yepangliu.github.io/">Yepang Liu</a>, <a target="_blank" href="https://www.cse.ust.hk/~scc/">Shing-Chi Cheung</a>, <a target="_blank" href="http://people.cs.vt.edu/nm8247/">Na Meng</a>, <a target="_blank" href="http://faculty.neu.edu.cn/yuhai/">Hai Yu</a> and <a target="_blank" href="http://faculty.neu.edu.cn/zzl/">Zhiliang Zhu</a>.
                             Hero: On the Chaos When PATH Meets Modules [C], ICSE 2021: 99-111.
-							(Acceptance ratio 22.4%=138/615) <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span></br> 
-							<img src="images/Award.png"/> <span style="color:rgb(209, 36, 13);font-weight: 600;">ACM SIGSOFT Distinguished Paper Award.</span></br>
+							(Acceptance ratio 22.4%=138/615) <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
+							<img src="images/Award.png"/> <span style="color:rgb(209, 36, 13);font-weight: 600;">ACM SIGSOFT Distinguished Paper Award.</span>
 							<span style="color:firebrick;font-weight: 600;">[Artifact]</span> <a href="http://www.hero-go.com/" style="font-weight: 600;">Hero</a>: it diagnoses dependency management issues for Golang ecosystem.
 						</li>
 					</ol>
 				</div>
+				
+				
 <div id="Journal" style="float:left;margin-top: 5px;">
     <h1 class="content_title">Journal</h1>
     <ol class="main_ul" style="margin-top: 5px;">
