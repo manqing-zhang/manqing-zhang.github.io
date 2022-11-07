@@ -41,10 +41,10 @@ Please find my CV here for more about my research projects and background. And p
     <h1 class="content_title">Conference</h1>
     <ol class="main_ul" style="margin-top: 5px;">
     <li><span style="color:green;font-weight: 600;">[ISSRE’21]</span> Wei Zheng, <span style="font-weight: 600;">Manqing Zhang*</span>, Hui Tang, Yuanfang Cai, <a target="_blank" href="https://smartse.github.io/">Xiang Chen</a>, Xiaoxue Wu and Abubakar Omari Abdallah Semasaba. Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning. 2021 IEEE 32nd International Symposium on Software Reliability Engineering. (Acceptance ratio 22.4%=138/615)  
-        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-B)<a href="2021_ISSRE Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning.pdf">[PDF]</a></span>
+        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-B)<a href="publications/issre21.pdf">[PDF]</a></span>
     </li>
     <li><span style="color:green;font-weight: 600;">[ESEC/FSE’19]</span> <a target="_blank" href="https://yuleisui.github.io">Yulei Sui</a>, Yifei Zhang, Wei Zheng, <span style="font-weight: 600;">Manqing Zhang</span>, Jingling Xue. Event Trace Reduction for Effective Bug Replay of Android Apps via Differential GUI State Analysis. Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. 
-        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span><a href="2019_FSE Event trace reduction for effective bug replay of Android apps via differential GUI state analysis.pdf">[PDF]</a><br />
+        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)<a href="publications/fse19">[PDF]</a></span><br />
 	<span style="color:firebrick;font-weight: 600;">[Artifact]</span> <a href="https://github.com/zmqgeek/Echo" style="font-weight: 600;">Echo</a>: it replay and reduce Android GUI test cases.
     </li>
     </ol>
