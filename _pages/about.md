@@ -75,7 +75,7 @@ Please find my CV here for more about my research projects and background. And p
   
 - *2015.09 - 2019.06*, School of Computer and Information, Anhui Polytechnic University
 
-  Bachelor of Engineering, Computer Science \& Technology, Supervisors: Prof. Yu Xiu.
+  Bachelor of Engineering, Computer Science & Technology, Supervisors: Prof. Yu Xiu.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
