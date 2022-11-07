@@ -34,19 +34,15 @@ Please find my CV here for more about my research projects and background. And p
 
 # 📝 Publications 
 
-- *Journal articles:
-
-[1] Weishun Deng, Kaijiong Zhang, Mengqi Lin, Xi Zhang, Fan Yu, et al. [Obstacle-avoidance algorithm design for autonomous vehicles considering driver subjective feeling](https://doi.org/10.1177/0954407020977110). Proceedings of the iMeche, Part D: Journal of Automobile Engineering. 2021;235(4):945-960. https://doi.org/10.1177/0954407020977110. SCI. First Author.
-
-[2] Weishun Deng, Weimiao Yang, Jianwu Zhang, Pengpeng Feng, Fan Yu. [A data-driven predictive controller combined with the vector autoregressive with exogenous input model and the propagator estimation method for vehicle lateral stabilization](https://doi.org/10.1177/0959651819899825). Proceedings of iMeche, Part I: Journal of Systems and Control Engineering. 2021;235(1):94-116. https://doi.org/10.1177/0959651819899825. SCI. First Author.
-
 - *Conference papers:
 
-[3] Weishun Deng, Fan Yu, Zhe Wang, Dengbo He. The Design and Evaluation of an Obstacle Avoidance Algorithm in Autonomous Vehicles with Drivers' Subjective Feelings Considered. The 2023 Transportation Research Board (TRB) Annual Meeting (TRB 2023), Jan. 8-12, 2023, Washington, D.C., USA. Submitted. EI.
+[ISSRE'21] Wei Zheng, Manqing Zhang, Hui Tang, Yuanfang Cai, Xiang Chen, Xiaoxue Wu, Abubakar Omari Abdallah Semasaba. Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning. 2021 IEEE 32nd International Symposium on Software Reliability Engineering. (CCF-B)
 
-[4] Kaijiong Zhang, Xi Zhang, Weishun Deng, Fan Yu, et al. Path planning algorithm of the intelligent vehicle considering the passenger feelings. 2019 International Conference on Artificial Intelligence, Networking and Information Technology (ANIT 2019), Dec. 30-31, 2019, Shanghai, China. Published online. EI.
+[ESEC/FSE'19] Yulei Sui, Yifei Zhang, Wei Zheng, Manqing Zhang, Jingling Xue. Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. (CCF-A)
 
-[5] Mengge Guo, Kaijiong Zhang, Weishun Deng, et al. Control Model of Automated Driving Systems Based on SOTIF Evaluation. 2020 WCX SAE World Congress Experience. Detroit, USA. SAE Technical Paper 2020-01-1214. Published online. EI. Co-authored paper with SAIC-General Motors and was nominated for Best Paper.
+- *Journal articles:
+
+[计算机研究与发展'22] Zheng Wei, Tang Hui, Chen Xiang, Zhang Manqing, Xia Xin. State-of-the-Art Survey of Compatibility Test for Android Mobile Application. Journal of Computer Research and Development, 2022, 59(6): 1370-1387. (CCF-A)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
