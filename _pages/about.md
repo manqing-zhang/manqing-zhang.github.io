@@ -60,7 +60,10 @@ Please find my CV here for more about my research projects and background. And p
 </div>	   
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<li><img src="img/Award1.png"/> 东北大学优秀博士论文奖, 2020, <a target="_blank" href="http://www.graduate.neu.edu.cn/2020/1126/c4148a183817/page.htm">[Reference]</a>
+						</li>
+- ![Award1](imgage/Award1.png) *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
