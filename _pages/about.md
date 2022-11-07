@@ -61,10 +61,8 @@ Please find my CV here for more about my research projects and background. And p
 
 # 🎖 Honors and Awards
 
-<li><img src="img/Award1.png"/> 东北大学优秀博士论文奖, 2020, <a target="_blank" href="http://www.graduate.neu.edu.cn/2020/1126/c4148a183817/page.htm">[Reference]</a>
-						</li>
-- ![Award1](imgage/Award1.png) *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ![Award1](images/Award1.png) *2022.10* 西北工业大学优秀硕士论文奖. 
+- ![Award1](images/Award1.png) *2019.10* 安徽工程大学品学兼优毕业生.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Master of Engineering, [School of Mechanical Engineering](https://me.sjtu.edu.cn//) at Shanghai Jiao Tong University.
