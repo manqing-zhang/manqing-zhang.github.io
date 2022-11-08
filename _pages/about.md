@@ -50,6 +50,10 @@ I am very fond of discussions and exchanges, if you are interested in my researc
 	    <a href="https://github.com/zmqgeek/Itactivul"> <img src="images/github.png" width="25" height="25"></a>
 	    <img src="images/slides.png" width="25" height="25">
     </li>
+    <li><span style="color:green;font-weight: 600;">[SANER’21]</span> Wei Zheng, Guoliang Liu, <span style="font-weight: 600;">Manqing Zhang</span>, <a target="_blank" href="https://smartse.github.io/">Xiang Chen</a> and Wenqiao Zhao. <strong>Research Progress of Flaky Tests.</strong> 2021 IEEE International Conference on Software Analysis, Evolution and Reengineering.   
+    <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-B)</span>
+	    <a href="publications/saner21.pdf"><img src="images/pdf.png" width="25" height="25"></a>
+    </li>    
     <li><span style="color:green;font-weight: 600;">[ESEC/FSE’19]</span> <a target="_blank" href="https://yuleisui.github.io">Yulei Sui</a>, Yifei Zhang, Wei Zheng, <span style="font-weight: 600;">Manqing Zhang</span>, Jingling Xue. <strong>Event Trace Reduction for Effective Bug Replay of Android Apps via Differential GUI State Analysis.</strong> Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. 
         <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
 	    <a href="publications/fse19.pdf"><img src="images/pdf.png" width="25" height="25"></a>
