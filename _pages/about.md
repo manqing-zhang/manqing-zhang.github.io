@@ -88,12 +88,12 @@ My research interests include:
 
 # 💬 Invited Talks
 
-- Academic Xiaobai, has not been invited yet<img src="images/xiaobai.png" width="25" height="25"></a>.
+- Academic Xiaobai, has not been invited yet<img src="images/xiaobai.png" width="25" height="25">.
 
 # 📚 Reviewer
 
-- Not enough level to be a reviewer<img src="images/xiaoku.png" width="25" height="25"></a>.
+- Not enough level to be a reviewer<img src="images/xiaoku.png" width="25" height="25">.
 
 # 💻 Internships
 
-- When the research is done well, it may be possible to do an internship for a period of time<img src="images/idea.png" width="25" height="25"></a>.
+- When the research is done well, it may be possible to do an internship for a period of time<img src="images/idea.png" width="25" height="25">.
