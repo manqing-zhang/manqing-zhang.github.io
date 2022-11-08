@@ -44,7 +44,7 @@ I am very fond of discussions and exchanges, if you are interested in my researc
     <p style="color:blue"># means co-first author; * means corresponding author</p>
     <h1 class="content_title">Conference</h1>
     <ol class="main_ul" style="margin-top: 5px;">
-    <li><span style="color:green;font-weight: 600;">[ISSRE’21]</span> Wei Zheng, <span style="font-weight: 600;">Manqing Zhang*</span>, Hui Tang, Yuanfang Cai, <a target="_blank" href="https://smartse.github.io/">Xiang Chen</a>, Xiaoxue Wu and Abubakar Omari Abdallah Semasaba. <strong>Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning.</strong> 2021 IEEE 32nd International Symposium on Software Reliability Engineering. (Acceptance ratio 27.5%=52/189)  
+    <li><span style="color:green;font-weight: 600;">[ISSRE’21]</span> Wei Zheng, <span style="font-weight: 600;">Manqing Zhang*</span>, Hui Tang, <a target="_blank" href="https://www.cs.drexel.edu/~yfcai/index.html">Yuanfang Cai</a>, <a target="_blank" href="https://smartse.github.io/">Xiang Chen</a>, Xiaoxue Wu and Abubakar Omari Abdallah Semasaba. <strong>Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning.</strong> 2021 IEEE 32nd International Symposium on Software Reliability Engineering. (Acceptance ratio 27.5%=52/189)  
         <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-B)</span>
 	    <a href="publications/issre21.pdf"><img src="images/pdf.png" width="25" height="25"></a>
 	    <a href="https://github.com/zmqgeek/Itactivul"> <img src="images/github.png" width="25" height="25"></a>
@@ -54,7 +54,7 @@ I am very fond of discussions and exchanges, if you are interested in my researc
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-B)</span>
 	    <a href="publications/saner21.pdf"><img src="images/pdf.png" width="25" height="25"></a>
     </li>    
-    <li><span style="color:green;font-weight: 600;">[ESEC/FSE’19]</span> <a target="_blank" href="https://yuleisui.github.io">Yulei Sui</a>, Yifei Zhang, Wei Zheng, <span style="font-weight: 600;">Manqing Zhang</span>, Jingling Xue. <strong>Event Trace Reduction for Effective Bug Replay of Android Apps via Differential GUI State Analysis.</strong> Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. 
+    <li><span style="color:green;font-weight: 600;">[ESEC/FSE’19]</span> <a target="_blank" href="https://yuleisui.github.io">Yulei Sui</a>, Yifei Zhang, Wei Zheng, <span style="font-weight: 600;">Manqing Zhang</span> and <a target="_blank" href="https://www.cse.unsw.edu.au/~jingling/">Jingling Xue</a>. <strong>Event Trace Reduction for Effective Bug Replay of Android Apps via Differential GUI State Analysis.</strong> Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. 
         <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
 	    <a href="publications/fse19.pdf"><img src="images/pdf.png" width="25" height="25"></a>
 	    <a href="https://github.com/zmqgeek/Echo"> <img src="images/github.png" width="25" height="25"></a>
@@ -83,15 +83,15 @@ I am very fond of discussions and exchanges, if you are interested in my researc
 # 📖 Educations
 - *2022.09 - now*, School of Software, Northwestern Polytechnical University
   
-  Ph.D., Software Engineering, Supervisors: Prof. Zhiming Liu
+  Ph.D., Software Engineering, Supervisors: [Prof. Zhiming Liu](https://teacher.nwpu.edu.cn/zliu.html)
   
 - *2019.09 - 2022.04*, School of Software, Northwestern Polytechnical University
 
-  Master of Engineering, Software Engineering, Supervisors: Prof. Wei Zheng
+  Master of Engineering, Software Engineering, Supervisors: [Prof. Wei Zheng](https://teacher.nwpu.edu.cn/zhengwei.html)
   
 - *2015.09 - 2019.06*, School of Computer and Information, Anhui Polytechnic University
 
-  Bachelor of Engineering, Computer Science & Technology, Supervisors: Prof. Yu Xiu.
+  Bachelor of Engineering, Computer Science & Technology, Supervisors: [Prof. Yu Xiu](https://www.ahpu.edu.cn/jsjyxxgc/2014/0524/c5472a75718/page.htm)
 
 # 💬 Invited Talks
 
