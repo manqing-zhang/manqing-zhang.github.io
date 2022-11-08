@@ -35,16 +35,25 @@ Please find my CV here for more about my research projects and background. And p
 # 📝 Publications 
 #### ( \* refers to the corresponding author )
 
+<p class="a">See more papers in the
+      <img src="images/google_scholar.png" width="25" height="25">
+      <a href="https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=9C3ekxYAAAAJ">Google Scholar</a>
+      &nbsp;&nbsp;
+      <img src="images/dblp.png" width="25" height="25">
+      <a href="https://dblp.org/pid/246/5343.html?q=manqing%20zhang">DBLP</a>
+</p>
+<p style="color:blue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# means co-first author; * means corresponding author</p>
+
 <!-- <img src="images/Award.png"/> <span style="color:rgb(209, 36, 13);font-weight: 600;">ACM SIGSOFT Distinguished Paper Award.</span><br /> -->
 
 <div id="Conference" style="float:left;margin-top: 5px;">
     <h1 class="content_title">Conference</h1>
     <ol class="main_ul" style="margin-top: 5px;">
-    <li><span style="color:green;font-weight: 600;">[ISSRE’21]</span> Wei Zheng, <span style="font-weight: 600;">Manqing Zhang*</span>, Hui Tang, Yuanfang Cai, <a target="_blank" href="https://smartse.github.io/">Xiang Chen</a>, Xiaoxue Wu and Abubakar Omari Abdallah Semasaba. Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning. 2021 IEEE 32nd International Symposium on Software Reliability Engineering. (Acceptance ratio 22.4%=52/189)  
-        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-B)<a href="publications/issre21.pdf">[PDF]</a></span>
+    <li><span style="color:green;font-weight: 600;">[ISSRE’21]</span> Wei Zheng, <span style="font-weight: 600;">Manqing Zhang*</span>, Hui Tang, Yuanfang Cai, <a target="_blank" href="https://smartse.github.io/">Xiang Chen</a>, Xiaoxue Wu and Abubakar Omari Abdallah Semasaba. <strong>Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning.</strong> 2021 IEEE 32nd International Symposium on Software Reliability Engineering. (Acceptance ratio 22.4%=52/189)  
+        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-B)</span><a href="publications/issre21.pdf"><img src="images/pdf.png" width="25" height="25"></a>
     </li>
     <li><span style="color:green;font-weight: 600;">[ESEC/FSE’19]</span> <a target="_blank" href="https://yuleisui.github.io">Yulei Sui</a>, Yifei Zhang, Wei Zheng, <span style="font-weight: 600;">Manqing Zhang</span>, Jingling Xue. Event Trace Reduction for Effective Bug Replay of Android Apps via Differential GUI State Analysis. Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. 
-        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)<a href="publications/fse19.pdf">[PDF]</a></span><br />
+        <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span><a href="publications/fse19.pdf"><img src="images/pdf.png" width="25" height="25"></a><br />
 	<span style="color:firebrick;font-weight: 600;">[Artifact]</span> <a href="https://github.com/zmqgeek/Echo" style="font-weight: 600;">Echo</a>: it replay and reduce Android GUI test cases.
     </li>
     </ol>
