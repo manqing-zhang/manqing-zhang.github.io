@@ -48,13 +48,13 @@ I am very fond of discussions and exchanges, if you are interested in my researc
         <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-B)</span>
 	    <a href="publications/issre21.pdf"><img src="images/pdf.png" width="25" height="25"></a>
 	    <a href="https://github.com/zmqgeek/Itactivul"> <img src="images/github.png" width="25" height="25"></a>
-	    <img src="images/ppt.png" width="25" height="25">
+	    <img src="images/slide.png" width="25" height="25">
     </li>
     <li><span style="color:green;font-weight: 600;">[ESEC/FSE’19]</span> <a target="_blank" href="https://yuleisui.github.io">Yulei Sui</a>, Yifei Zhang, Wei Zheng, <span style="font-weight: 600;">Manqing Zhang</span>, Jingling Xue. Event Trace Reduction for Effective Bug Replay of Android Apps via Differential GUI State Analysis. Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. 
         <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
 	    <a href="publications/fse19.pdf"><img src="images/pdf.png" width="25" height="25"></a>
 	    <a href="https://github.com/zmqgeek/Echo"> <img src="images/github.png" width="25" height="25"></a>
-	    <img src="images/ppt.png" width="25" height="25">
+	    <img src="images/slide.png" width="25" height="25">
 	    <a href="https://www.youtube.com/watch?v=0UCVIIEigEI"><img src="images/video.png" width="25" height="25"></a><br />
 	<span style="color:firebrick;font-weight: 600;">[Artifact]</span> <a href="https://github.com/zmqgeek/Echo" style="font-weight: 600;">Echo</a>: it replay and reduce Android GUI test cases.
     </li>
