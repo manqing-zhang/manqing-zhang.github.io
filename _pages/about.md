@@ -88,7 +88,7 @@ My research interests include:
 
 # 💬 Invited Talks
 
-- Academic Xiaobai, has not been invited yet<img src="images/xiaobai.png" width="25" height="25">.
+- Academic newbie, has not been invited yet<img src="images/xiaobai.png" width="25" height="25">.
 
 # 📚 Reviewer
 
