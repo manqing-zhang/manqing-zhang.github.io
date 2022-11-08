@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student majoring in Formal Verification at Northwestern Polytechnical University under the supervison of [Prof. Zhiming Liu](https://teacher.nwpu.edu.cn/zliu.html). I am a detail oriented PhD student interested in Theorem Proving, ​Concurrent Program Verification, Operating System Formal Development Method and Verification. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in mathematics and dynamic modeling. ​
+I am currently a Ph.D. student at Northwestern Polytechnical University under the supervison of [Prof. Zhiming Liu](https://teacher.nwpu.edu.cn/zliu.html). I got my master degree of Software Engineering from Northwestern Polytechnical University in 2022. 
 
-Previously during my master’s study at Case Western Reserve University (CWRU), I worked on the hexapod design and control project in the CRAB lab supervised by [Prof. Kathryn Daltorio](https://engineering.case.edu/research/labs/Daltorio/), and the joint hexapods locomotion project with National University of Singapore(NUS) supervised by Prof. [Guillaume Sartoretti](https://www.marmotlab.org). 
+My research is focused on using formal verification techniques to ensure system software security. Specifically, my current research focuses on designing techniques to improve the efficiency of interactive theorem proving script synthesis and evolution. In addition, I am also interested in learning and exploring related theories and techniques of model checking. 
 
-I received my Bachelor’s degree from Southern University of Science and Technology (SUSTech), China in 2019 with my major in Mechanical Engineering. During this period, I worked on quadruped robot design and control in CLEAR Lab with [Prof. Wei Zhang](https://www.wzhanglab.site).
-
-Please find my CV here for more about my research projects and background. And please feel free to contact me for any questions or opportunities. 
+My research interests include:
+- Interactive Theorem Proving;
+- System Software Security;
+- Model Checking;
+- Program Synthesis
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -85,11 +87,13 @@ Please find my CV here for more about my research projects and background. And p
   Bachelor of Engineering, Computer Science & Technology, Supervisors: Prof. Yu Xiu.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+- Academic Xiaobai, has not been invited yet.
 
 # 📚 Reviewer
-- IEEE Transactions on Intelligent Transportation Systems (USA, SCI, JCR Q1)
+
+- Not enough level to be a reviewer.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- When the research is done well, it may be possible to do an internship for a period of time.
