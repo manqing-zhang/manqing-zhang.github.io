@@ -54,7 +54,7 @@ I am very fond of discussions and exchanges, if you are interested in my researc
         <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
 	    <a href="publications/fse19.pdf"><img src="images/pdf.png" width="25" height="25"></a>
 	    <a href="https://github.com/zmqgeek/Echo"> <img src="images/github.png" width="25" height="25"></a>
-	    <img src="images/github.png" width="25" height="25">
+	    <img src="images/ppt.png" width="25" height="25">
 	    <a href="https://www.youtube.com/watch?v=0UCVIIEigEI"><img src="images/video.png" width="25" height="25"></a><br />
 	<span style="color:firebrick;font-weight: 600;">[Artifact]</span> <a href="https://github.com/zmqgeek/Echo" style="font-weight: 600;">Echo</a>: it replay and reduce Android GUI test cases.
     </li>
