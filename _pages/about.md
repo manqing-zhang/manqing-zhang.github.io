@@ -42,8 +42,8 @@ Please find my CV here for more about my research projects and background. And p
       &nbsp;&nbsp;
       <img src="images/dblp.png" width="25" height="25">
       <a href="https://dblp.org/pid/246/5343.html?q=manqing%20zhang">DBLP</a>
-    </p><br />
-    <p style="color:blue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# means co-first author; * means corresponding author</p>
+    </p>
+    <p style="color:blue"># means co-first author; * means corresponding author</p>
     <h1 class="content_title">Conference</h1>
     <ol class="main_ul" style="margin-top: 5px;">
     <li><span style="color:green;font-weight: 600;">[ISSRE’21]</span> Wei Zheng, <span style="font-weight: 600;">Manqing Zhang*</span>, Hui Tang, Yuanfang Cai, <a target="_blank" href="https://smartse.github.io/">Xiang Chen</a>, Xiaoxue Wu and Abubakar Omari Abdallah Semasaba. <strong>Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning.</strong> 2021 IEEE 32nd International Symposium on Software Reliability Engineering. (Acceptance ratio 22.4%=52/189)  
