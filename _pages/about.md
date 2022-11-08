@@ -21,7 +21,7 @@ I am currently a Ph.D. student at Northwestern Polytechnical University under th
 
 My research is focused on using formal verification techniques to ensure system software security. Specifically, my current research focuses on designing techniques to improve the efficiency of interactive theorem proving script synthesis and evolution. In addition, I am also interested in learning and exploring related theories and techniques of model checking. 
 
-I am very fond of discussions and exchanges, if you are interested in my research, please email me<img src="images/jiaoliu.png" width="25" height="25">.  I also welcome the big guys in formal verification research to take me off the ground<img src="images/xiaoku.png" width="25" height="25">.
+I am very fond of discussions and exchanges, if you are interested in my research, please email me.<img src="images/jiaoliu.png" width="25" height="25">  I also welcome the whiz in formal verification research to take me off the ground.<img src="images/xiaoku.png" width="25" height="25">
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -84,12 +84,12 @@ I am very fond of discussions and exchanges, if you are interested in my researc
 
 # 💬 Invited Talks
 
-- Academic newbie, has not been invited yet<img src="images/xiaobai.png" width="25" height="25">.
+- Academic newbie, has not been invited yet.<img src="images/xiaobai.png" width="25" height="25">
 
 # 📚 Reviewer
 
-- Not enough level to be a reviewer<img src="images/xiaoku.png" width="25" height="25">.
+- Not enough level to be a reviewer.<img src="images/xiaoku.png" width="25" height="25">
 
 # 💻 Internships
 
-- When the research is done well, it may be possible to do an internship for a period of time<img src="images/idea.png" width="25" height="25">.
+- When the research is done well, it may be possible to do an internship for a period of time.<img src="images/idea.png" width="25" height="25">
