@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at Northwestern Polytechnical University under the supervison of [Prof. Zhiming Liu](https://teacher.nwpu.edu.cn/zliu.html). I got my master degree of Software Engineering from Northwestern Polytechnical University in 2022. 
+Manqing Zhang is a first-year PhD student at Northwestern Polytechnical University under the supervision of [Prof. Zhiming Liu](https://teacher.nwpu.edu.cn/zliu.html). I got my master degree of Software Engineering from Northwestern Polytechnical University in 2022. 
 
 My research is focused on using formal verification techniques to ensure system software security. Specifically, my current research focuses on designing techniques to improve the efficiency of interactive theorem proving script synthesis and evolution. In addition, I am also interested in learning and exploring related theories and techniques of model checking. 
 
