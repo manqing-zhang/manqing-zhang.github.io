@@ -39,7 +39,7 @@ I am very fond of discussions and exchanges, if you are interested in my researc
       <a href="https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=9C3ekxYAAAAJ">Google Scholar</a>
       &nbsp;&nbsp;
       <img src="images/dblp.png" width="25" height="25">
-      <a href="https://dblp.org/pid/246/5343.html?q=manqing%20zhang">DBLP</a>
+      <a href="https://dblp.org/pid/246/5343.html">DBLP</a>
     </p>
     <p style="color:blue"># means co-first author; * means corresponding author</p>
     <h1 class="content_title">Conference</h1>
