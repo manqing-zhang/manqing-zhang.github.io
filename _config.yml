@@ -6,7 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Manqing Zhang"
+title                    : "Manqing Zhang's Homepage"
+title_separator          : "-"
+name                    : "Manqing Zhang"
 description              : "PhD in Northwestern Polytechnical University. Focusing on formal verification, theorm proving. "
 repository               : "manqing-zhang/manqing-zhang.github.io"
 google_scholar_stats_use_cdn : true
