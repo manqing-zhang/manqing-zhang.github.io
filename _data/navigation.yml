@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Homepage"
+    url: "/#-about-me"
+
   - title: "Publications"
     url: "/#-publications"
 
