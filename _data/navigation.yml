@@ -6,6 +6,9 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+    
+  - title: "CV"
+    url: "https://zmqgeek.github.io"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
