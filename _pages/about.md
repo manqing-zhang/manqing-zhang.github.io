@@ -43,6 +43,10 @@ I am very fond of discussions and exchanges, if you are interested in my researc
     <p style="color:blue"># means co-first author; * means corresponding author</p>
     <h1 class="content_title">Conference</h1>
     <ol class="main_ul" style="margin-top: 5px;">
+    <li><span style="color:green;font-weight: 600;">[QRS’24]</span> <span style="font-weight: 600;">Manqing Zhang</span>, Renliang Wu, Kang Su, Yunwei Dong and Tao Zhang. <strong>Application Scenario Modeling and Verification for Unmanned Aerial Vehicle Swarm.</strong> The 24th IEEE International Conference on Software Quality, Reliability, and Security.   
+    <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-C)</span>
+	    <a href="publications/saner21.pdf"><img src="images/pdf.png" width="25" height="25"></a>
+    </li>  
     <li><span style="color:green;font-weight: 600;">[ISSRE’21]</span> Wei Zheng, <span style="font-weight: 600;">Manqing Zhang*</span>, Hui Tang, <a target="_blank" href="https://www.cs.drexel.edu/~yfcai/index.html">Yuanfang Cai</a>, <a target="_blank" href="https://smartse.github.io/">Xiang Chen</a>, Xiaoxue Wu and Abubakar Omari Abdallah Semasaba. <strong>Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning.</strong> 2021 IEEE 32nd International Symposium on Software Reliability Engineering. (Acceptance ratio 27.5%=52/189)  
         <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-B)</span>
 	    <a href="publications/issre21.pdf"><img src="images/pdf.png" width="25" height="25"></a>
@@ -68,11 +72,11 @@ I am very fond of discussions and exchanges, if you are interested in my researc
 <div id="Journal" style="float:left;margin-top: 5px;">
     <h1 class="content_title">Journal</h1>
     <ol class="main_ul" style="margin-top: 5px;">
-    <li><span style="color:green;font-weight: 600;">[计算机研究与发展'22]</span> 郑炜, 唐辉, <a target="_blank" href="https://smartse.github.io/">陈翔</a>, <span style="font-weight: 600;">张满青</span>, <a target="_blank" href="https://xin-xia.github.io/">夏鑫</a>. <strong>安卓移动应用兼容性测试综述.</strong> 计算机研究与发展, 2022, 59(6): 1370-1387. 
-    <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span><a href="publications/jcrd22.pdf"><img src="images/pdf.png" width="25" height="25"></a>
-    </li>
     <li><span style="color:green;font-weight: 600;">[TMM'24]</span> Lingru Zhou, Yiqi Gao, <span style="font-weight: 600;">Manqing Zhang</span>, Peng Wu, Peng Wang and Yanning Zhang. <strong>Human-centric Behavior Description in Videos: New Benchmark and Model.</strong> IEEE Transactions on Multimedia (TMM) 2024. 
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(SCI 1区)</span><a href="publications/jcrd22.pdf"><img src="images/pdf.png" width="25" height="25"></a>
+    </li>
+    <li><span style="color:green;font-weight: 600;">[计算机研究与发展'22]</span> 郑炜, 唐辉, <a target="_blank" href="https://smartse.github.io/">陈翔</a>, <span style="font-weight: 600;">张满青</span>, <a target="_blank" href="https://xin-xia.github.io/">夏鑫</a>. <strong>安卓移动应用兼容性测试综述.</strong> 计算机研究与发展, 2022, 59(6): 1370-1387. 
+    <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span><a href="publications/jcrd22.pdf"><img src="images/pdf.png" width="25" height="25"></a>
     </li>
     </ol>
 </div>	   
