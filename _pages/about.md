@@ -26,6 +26,7 @@ I am very fond of discussions and exchanges, if you are interested in my researc
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 Our paper on abnormal human behavior understanding in videos has been accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/). Congrats to Lingru!
 - *2024.09*: &nbsp;🎉🎉 I will be a visiting student at Southern University of Science and Technology. I am honored to work under the guidance of Prof. Yepang.
 - *2022.09*: &nbsp;🎉🎉 I will continue my Ph.D. study at Northwestern Polytechnical University. I am honoured to have the guidance of Prof.Liu.
 - *2022.03*: &nbsp;🎉🎉 I received my master degree at Northwestern Polytechnical University. I am very grateful to my supervisors Prof. Zheng, as well as my dear friends and roommates.
@@ -44,6 +45,10 @@ I am very fond of discussions and exchanges, if you are interested in my researc
     <p style="color:blue"># means co-first author; * means corresponding author</p>
     <h1 class="content_title">Conference</h1>
     <ol class="main_ul" style="margin-top: 5px;">
+	<li><span style="color:green;font-weight: 600;">[AAAI’26]</span> Lingru Zhou, Peng Wu, <span style="font-weight: 600;">Manqing Zhang</span>, Qingsheng Wang, Guansong Pang and Peng Wang. <strong>TargetVAU: Multimodal Anomaly-Aware Reasoning for Target Behavior Understanding in Videos.</strong> The 40th Annual AAAI Conference on Artificial Intelligence.   
+    <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
+	    <a href="publications/qrs24.pdf"><img src="images/pdf.png" width="25" height="25"></a>
+    </li>
     <li><span style="color:green;font-weight: 600;">[QRS’24]</span> <span style="font-weight: 600;">Manqing Zhang</span>, Renliang Wu, Kang Su, Yunwei Dong and Tao Zhang. <strong>Application Scenario Modeling and Verification for Unmanned Aerial Vehicle Swarm.</strong> The 24th IEEE International Conference on Software Quality, Reliability, and Security.   
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-C)</span>
 	    <a href="publications/qrs24.pdf"><img src="images/pdf.png" width="25" height="25"></a>
@@ -74,7 +79,7 @@ I am very fond of discussions and exchanges, if you are interested in my researc
     <h1 class="content_title">Journal</h1>
     <ol class="main_ul" style="margin-top: 5px;">
     <li><span style="color:green;font-weight: 600;">[JSS'25]</span> <span style="font-weight: 600;">Manqing Zhang</span>, Yunwei Dong, Tao Zhang, Kang Su and Zeshan Li. <strong>Modeling and Verifying Resources and Capabilities of Ubiquitous Scenarios for Unmanned Aerial Vehicle Swarm.</strong> Journal of Systems and Software (JSS) 2025. 
-    <span style="color:rgb(138, 22, 6);font-weight: 600;">(SCI 2区)</span><a href="publications/jss25.pdf"><img src="images/pdf.png" width="25" height="25"></a>
+    <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF B, SCI 2区)</span><a href="publications/jss25.pdf"><img src="images/pdf.png" width="25" height="25"></a>
     </li>
     <li><span style="color:green;font-weight: 600;">[TMM'24]</span> Lingru Zhou, Yiqi Gao, <span style="font-weight: 600;">Manqing Zhang</span>, Peng Wu, Peng Wang and Yanning Zhang. <strong>Human-centric Behavior Description in Videos: New Benchmark and Model.</strong> IEEE Transactions on Multimedia (TMM) 2024. 
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(SCI 1区)</span><a href="publications/tmm24.pdf"><img src="images/pdf.png" width="25" height="25"></a>
