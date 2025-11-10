@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Manqing Zhang is a third-year PhD student at Northwestern Polytechnical University under the supervision of [Prof. Zhiming Liu](https://www.rise-swu.cn/en/liuzhiming.html). I got my master degree of Software Engineering from Northwestern Polytechnical University in 2022. I am a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io).
+Manqing Zhang is a fourth-year PhD student at Northwestern Polytechnical University under the supervision of [Prof. Zhiming Liu](https://www.rise-swu.cn/en/liuzhiming.html). I got my master degree of Software Engineering from Northwestern Polytechnical University in 2022. I am a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io).
 
 My research is focused on using formal verification techniques to ensure system software security. Specifically, my current research focuses on designing techniques to improve the efficiency of interactive theorem proving script synthesis and evolution. In addition, I am also interested in learning and exploring related theories and techniques of model checking. 
 
@@ -92,6 +92,8 @@ I am very fond of discussions and exchanges, if you are interested in my researc
 
 # 🎖 Honors and Awards
 
+<!-- - ![Award1](images/Award1.png) *2025.11*, 西北工业大学优秀研究生.
+- ![Award1](images/Award1.png) *2025.10*, 国家奖学金.-->
 - ![Award1](images/Award1.png) *2022.08*, 西北工业大学优秀硕士学位论文奖. \[[Reference](https://gs.nwpu.edu.cn/info/2141/15244.htm)\]
 - ![Award1](images/Award1.png) *2019.04*, 安徽省普通高等学校品学兼优毕业生.
 
