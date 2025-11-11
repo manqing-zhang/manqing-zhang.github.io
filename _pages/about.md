@@ -45,15 +45,15 @@ I am very fond of discussions and exchanges, if you are interested in my researc
     <p style="color:blue"># means co-first author; * means corresponding author</p>
     <h1 class="content_title">Conference</h1>
     <ol class="main_ul" style="margin-top: 5px;">
-	<li><span style="color:green;font-weight: 600;">[AAAI’26]</span> Lingru Zhou, Peng Wu, <span style="font-weight: 600;">Manqing Zhang</span>, Qingsheng Wang, Guansong Pang and Peng Wang. <strong>TargetVAU: Multimodal Anomaly-Aware Reasoning for Target Behavior Understanding in Videos.</strong> The 40th Annual AAAI Conference on Artificial Intelligence.   
+	<li><span style="color:green;font-weight: 600;">[AAAI’26]</span> Lingru Zhou, Peng Wu, <span style="font-weight: 600;">Manqing Zhang</span>, Qingsheng Wang, Guansong Pang and Peng Wang. <strong>TargetVAU: Multimodal Anomaly-Aware Reasoning for Target Behavior Understanding in Videos.</strong> The 40th Annual AAAI Conference on Artificial Intelligence. (Acceptance rate 17.6%=4,167/23,680)
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
 	    <a href="publications/qrs24.pdf"><img src="images/pdf.png" width="25" height="25"></a>
     </li>
-    <li><span style="color:green;font-weight: 600;">[QRS’24]</span> <span style="font-weight: 600;">Manqing Zhang</span>, Renliang Wu, Kang Su, Yunwei Dong and Tao Zhang. <strong>Application Scenario Modeling and Verification for Unmanned Aerial Vehicle Swarm.</strong> The 24th IEEE International Conference on Software Quality, Reliability, and Security.   
+    <li><span style="color:green;font-weight: 600;">[QRS’24]</span> <span style="font-weight: 600;">Manqing Zhang</span>, Renliang Wu, Kang Su, Yunwei Dong and Tao Zhang. <strong>Application Scenario Modeling and Verification for Unmanned Aerial Vehicle Swarm.</strong> The 24th IEEE International Conference on Software Quality, Reliability, and Security. (Acceptance rate 23.8%=50/210)   
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-C)</span>
 	    <a href="publications/qrs24.pdf"><img src="images/pdf.png" width="25" height="25"></a>
     </li>  
-    <li><span style="color:green;font-weight: 600;">[ISSRE’21]</span> Wei Zheng, <span style="font-weight: 600;">Manqing Zhang*</span>, Hui Tang, <a target="_blank" href="https://www.cs.drexel.edu/~yfcai/index.html">Yuanfang Cai</a>, <a target="_blank" href="https://smartse.github.io/">Xiang Chen</a>, Xiaoxue Wu and Abubakar Omari Abdallah Semasaba. <strong>Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning.</strong> 2021 IEEE 32nd International Symposium on Software Reliability Engineering. (Acceptance ratio 27.5%=52/189)  
+    <li><span style="color:green;font-weight: 600;">[ISSRE’21]</span> Wei Zheng, <span style="font-weight: 600;">Manqing Zhang*</span>, Hui Tang, <a target="_blank" href="https://www.cs.drexel.edu/~yfcai/index.html">Yuanfang Cai</a>, <a target="_blank" href="https://smartse.github.io/">Xiang Chen</a>, Xiaoxue Wu and Abubakar Omari Abdallah Semasaba. <strong>Automatically Identifying Bug Reports with Tactical Vulnerabilities by Deep Feature Learning.</strong> 2021 IEEE 32nd International Symposium on Software Reliability Engineering. (Acceptance rate 27.5%=52/189)  
         <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-B)</span>
 	    <a href="publications/issre21.pdf"><img src="images/pdf.png" width="25" height="25"></a>
 	    <a href="https://github.com/zmqgeek/Itactivul"> <img src="images/github.png" width="25" height="25"></a>
