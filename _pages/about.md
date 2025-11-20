@@ -112,7 +112,7 @@ I am very fond of discussions and exchanges, if you are interested in my researc
 
 # 💬 Invited Talks
 
-- Academic newbie, has not been invited yet.<img src="images/xiaobai.png" width="25" height="25">
+- 2025.11, Towards Trustworthy and Effective Neural Theorem Proving via Prior Knowledge Augmentation. In the RITAS Technical Symposium at SusTech (Online).
 
 # 📚 Reviewer
 
