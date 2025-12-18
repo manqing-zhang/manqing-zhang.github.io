@@ -92,10 +92,11 @@ I am very fond of discussions and exchanges, if you are interested in my researc
 
 # 🎖 Honors and Awards
 
-<!-- - ![Award1](images/Award1.png) *2025.11*, 西北工业大学优秀研究生.
-- ![Award1](images/Award1.png) *2025.10*, 国家奖学金.-->
+- ![Award1](images/Award1.png) *2025.11*, 西北工业大学优秀研究生.
+- ![Award1](images/Award1.png) *2025.10*, 国家奖学金.
 - ![Award1](images/Award1.png) *2022.08*, 西北工业大学优秀硕士学位论文奖. \[[Reference](https://gs.nwpu.edu.cn/info/2141/15244.htm)\]
 - ![Award1](images/Award1.png) *2019.04*, 安徽省普通高等学校品学兼优毕业生.
+- ![Award1](images/Award1.png) *2015-2019*, 国家励志奖学金*3.
 
 # 📖 Educations
 - *2022.09 - now*, School of Software, Northwestern Polytechnical University
