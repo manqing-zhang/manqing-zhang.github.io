@@ -26,8 +26,9 @@ I am very fond of discussions and exchanges, if you are interested in my researc
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Our paper on improving neural theorem proving has been directly accepted to [FSE 2026](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers), with a highly competitive direct acceptance rate of only 10.9%. This is the first paper I have submitted since beginning my research in formal methods, marking an important milestone in my academic journey.
+- *2025.12*: &nbsp;🎉🎉 Our paper on improving neural theorem proving has been directly accepted to [FSE 2026](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers), with a highly competitive direct acceptance rate of only 10.9%. This work represents the first CCF-A software engineering conference paper from the School of Software, Northwestern Polytechnical University.
 - *2025.11*: &nbsp;🎉🎉 Our paper on abnormal human behavior understanding in videos has been accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/). Congrats to Lingru!
+- *2025.10*: &nbsp;🎉🎉 I am honored to have received the National Scholarship.
 - *2024.09*: &nbsp;🎉🎉 I will be a visiting student at Southern University of Science and Technology. I am honored to work under the guidance of Prof. Yepang.
 - *2022.09*: &nbsp;🎉🎉 I will continue my Ph.D. study at Northwestern Polytechnical University. I am honoured to have the guidance of Prof.Liu.
 - *2022.03*: &nbsp;🎉🎉 I received my master degree at Northwestern Polytechnical University. I am very grateful to my supervisors Prof. Zheng, as well as my dear friends and roommates.
@@ -46,7 +47,7 @@ I am very fond of discussions and exchanges, if you are interested in my researc
     <p style="color:blue"># means co-first author; * means corresponding author</p>
     <h1 class="content_title">Conference</h1>
     <ol class="main_ul" style="margin-top: 5px;">
-	<li><span style="color:green;font-weight: 600;">[FSE’26]</span> <span style="font-weight: 600;">Manqing Zhang</span>, Yunwei Dong, Lingru Zhou, Bingxu Xiao and Yepang Liu. <strong>ProofFusion: Improving Neural Theorem Proving via Adaptive Retrieval-Augmented Reasoning.</strong> The ACM International Conference on the Foundations of Software Engineering (FSE 2026). (Directly acceptance rate 10.9%=87/799)
+	<li><span style="color:green;font-weight: 600;">[FSE’26]</span> <span style="font-weight: 600;">Manqing Zhang</span>, Yunwei Dong, Lingru Zhou, Bingxu Xiao and <a target="_blank" href="https://yepangliu.github.io/">Yepang Liu</a>a. <strong>ProofFusion: Improving Neural Theorem Proving via Adaptive Retrieval-Augmented Reasoning.</strong> The ACM International Conference on the Foundations of Software Engineering (FSE 2026). (Directly acceptance rate 10.9%=87/799)
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
 	    <a href="publications/qrs24.pdf"><img src="images/pdf.png" width="25" height="25"></a>
     </li>
