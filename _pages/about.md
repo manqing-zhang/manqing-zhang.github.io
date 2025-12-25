@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Manqing Zhang is a fourth-year PhD student at Northwestern Polytechnical University under the supervision of [Prof. Zhiming Liu](https://www.rise-swu.cn/en/liuzhiming.html). I got my master degree of Software Engineering from Northwestern Polytechnical University in 2022. I am a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io).
+Manqing Zhang is a fourth-year PhD student at Northwestern Polytechnical University under the supervision of Prof. [Zhiming Liu](https://www.rise-swu.cn/en/liuzhiming.html) and Prof. [Yunwei Dong](https://teacher.nwpu.edu.cn/dongyunwei.html). I got my master degree of Software Engineering from Northwestern Polytechnical University in 2022. I am a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io).
 
 My research is focused on using formal verification techniques to ensure system software security. Specifically, my current research focuses on designing techniques to improve the efficiency of interactive theorem proving script synthesis and evolution. In addition, I am also interested in learning and exploring related theories and techniques of model checking. 
 
@@ -47,7 +47,7 @@ I am very fond of discussions and exchanges, if you are interested in my researc
     <p style="color:blue"># means co-first author; * means corresponding author</p>
     <h1 class="content_title">Conference</h1>
     <ol class="main_ul" style="margin-top: 5px;">
-	<li><span style="color:green;font-weight: 600;">[FSE’26]</span> <span style="font-weight: 600;">Manqing Zhang</span>, Yunwei Dong, Lingru Zhou, Bingxu Xiao and <a target="_blank" href="https://yepangliu.github.io/">Yepang Liu</a>a. <strong>ProofFusion: Improving Neural Theorem Proving via Adaptive Retrieval-Augmented Reasoning.</strong> The ACM International Conference on the Foundations of Software Engineering (FSE 2026). (Directly acceptance rate 9.5%=87/918)
+	<li><span style="color:green;font-weight: 600;">[FSE’26]</span> <span style="font-weight: 600;">Manqing Zhang</span>, Yunwei Dong, Lingru Zhou, Bingxu Xiao and <a target="_blank" href="https://yepangliu.github.io/">Yepang Liu</a>. <strong>ProofFusion: Improving Neural Theorem Proving via Adaptive Retrieval-Augmented Reasoning.</strong> The ACM International Conference on the Foundations of Software Engineering (FSE 2026). (Directly acceptance rate 9.5%=87/918)
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
 	    <a href="publications/qrs24.pdf"><img src="images/pdf.png" width="25" height="25"></a>
     </li>
@@ -107,7 +107,7 @@ I am very fond of discussions and exchanges, if you are interested in my researc
 # 📖 Educations
 - *2022.09 - now*, School of Software, Northwestern Polytechnical University
   
-  Ph.D., Software Engineering, Supervisors: [Prof. Zhiming Liu](https://www.rise-swu.cn/en/liuzhiming.html)
+  Ph.D., Software Engineering, Supervisors: [Prof. Zhiming Liu](https://www.rise-swu.cn/en/liuzhiming.html) and [Prof. Yunwei Dong](https://teacher.nwpu.edu.cn/dongyunwei.html)
   
 - *2019.09 - 2022.04*, School of Software, Northwestern Polytechnical University
 
