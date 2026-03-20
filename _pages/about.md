@@ -49,11 +49,11 @@ I am very fond of discussions and exchanges, if you are interested in my researc
     <ol class="main_ul" style="margin-top: 5px;">
 	<li><span style="color:green;font-weight: 600;">[FSE’26]</span> <span style="font-weight: 600;">Manqing Zhang</span>, Yunwei Dong, Lingru Zhou, Bingxu Xiao and <a target="_blank" href="https://yepangliu.github.io/">Yepang Liu</a>. <strong>ProofFusion: Improving Neural Theorem Proving via Adaptive Retrieval-Augmented Reasoning.</strong> The ACM International Conference on the Foundations of Software Engineering (FSE 2026). (Directly acceptance rate 9.5%=87/918)
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
-	    <a href="publications/qrs24.pdf"><img src="images/pdf.png" width="25" height="25"></a>
+	    <a href="publications/fse26.pdf"><img src="images/pdf.png" width="25" height="25"></a>
     </li>
 	<li><span style="color:green;font-weight: 600;">[AAAI’26]</span> Lingru Zhou, Peng Wu, <span style="font-weight: 600;">Manqing Zhang</span>, Qingsheng Wang, Guansong Pang and Peng Wang. <strong>TargetVAU: Multimodal Anomaly-Aware Reasoning for Target Behavior Understanding in Videos.</strong> The 40th Annual AAAI Conference on Artificial Intelligence. (Acceptance rate 17.6%=4,167/23,680)
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
-	    <a href="publications/qrs24.pdf"><img src="images/pdf.png" width="25" height="25"></a>
+	    <a href="publications/AAAI26.pdf"><img src="images/pdf.png" width="25" height="25"></a>
     </li>
     <li><span style="color:green;font-weight: 600;">[QRS’24]</span> <span style="font-weight: 600;">Manqing Zhang</span>, Renliang Wu, Kang Su, Yunwei Dong and Tao Zhang. <strong>Application Scenario Modeling and Verification for Unmanned Aerial Vehicle Swarm.</strong> The 24th IEEE International Conference on Software Quality, Reliability, and Security. (Acceptance rate 23.8%=50/210)   
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-C)</span>
