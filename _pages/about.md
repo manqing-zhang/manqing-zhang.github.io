@@ -47,6 +47,9 @@ I am very fond of discussions and exchanges, if you are interested in my researc
     <p style="color:blue"># means co-first author; * means corresponding author</p>
     <h1 class="content_title">Conference</h1>
     <ol class="main_ul" style="margin-top: 5px;">
+	<li><span style="color:green;font-weight: 600;">[ASE’26]</span> Jiaqing Wu, Tong Wu, <span style="font-weight: 600;">Manqing Zhang</span>, Yunwei Dong and Bo Shen. <strong>From Guessing to Seeing: Enhancing LLM-based Program Repair via Trace-Guided Multi-Strategy Debate.</strong> The 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026). 
+    <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
+    </li>
 	<li><span style="color:green;font-weight: 600;">[FSE’26]</span> <span style="font-weight: 600;">Manqing Zhang</span>, Yunwei Dong, Lingru Zhou, Bingxu Xiao and <a target="_blank" href="https://yepangliu.github.io/">Yepang Liu</a>. <strong>ProofFusion: Improving Neural Theorem Proving via Adaptive Retrieval-Augmented Reasoning.</strong> The ACM International Conference on the Foundations of Software Engineering (FSE 2026). (Directly acceptance rate 9.5%=87/918)
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span>
 	    <a href="publications/fse26.pdf"><img src="images/pdf.png" width="25" height="25"></a>
