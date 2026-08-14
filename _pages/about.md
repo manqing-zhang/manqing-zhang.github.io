@@ -87,6 +87,9 @@ I am very fond of discussions and exchanges, if you are interested in my researc
 <div id="Journal" style="float:left;margin-top: 5px;">
     <h1 class="content_title">Journal</h1>
     <ol class="main_ul" style="margin-top: 5px;">
+	<li><span style="color:green;font-weight: 600;">[JSS'26]</span> Yifan Zhou, Jiaxin Peng, <span style="font-weight: 600;">Manqing Zhang</span>, <a target="_blank" href="https://yidatao.github.io/">Yida Tao</a> and <a target="_blank" href="https://yepangliu.github.io/">Yepang Liu</a>. <strong>How Can Large Language Models Help Novice Programmers? An Exploratory Study in Educational Setting.</strong> Journal of Systems and Software (JSS) 2026. 
+    <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF B, SCI 2区)</span><a href="publications/jss25.pdf"><img src="images/pdf.png" width="25" height="25"></a>
+    </li>
 	<li><span style="color:green;font-weight: 600;">[电子学报'26]</span> <span style="font-weight: 600;">张满青</span>, 董云卫, <a target="_blank" href="https://cszhangtao.github.io/">张涛</a>. <strong>面向泛在操作系统场景验证的定理自动识别方法.</strong> 电子学报, 2026: 1-19. 
     <span style="color:rgb(138, 22, 6);font-weight: 600;">(CCF-A)</span><a href="publications/aes26.pdf"><img src="images/pdf.png" width="25" height="25"></a>
     </li>
